@@ -14,10 +14,13 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bertayeren#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+### General:
+
 <details>
   <summary>:computer: Unity Work</summary>
 
-  -☄️Tower Defense Protoype implemented wth Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]<br/>
+  -☄️Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]<br/>
+  <br/>
   -:milky_way: Simple VFX Effects: [Simple VFX][VFX]!
   
 </details>
