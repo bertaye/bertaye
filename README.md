@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Bertay 👋 
 
-<!--
-**bertaye/bertaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an indie Game Developer
 
-Here are some ideas to get you started:
+- 🔭 Check out my Simple VFX Effects: [Simple VFX][VFX]!
+- 🌱 I’m currently learning OpenGL and Solidity!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/bertayeren#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bertayeren#gh-dark-mode-only)
+
+[website]: https://linkedin.com/in/bertayeren
+[VFX]: https://github.com/bertaye/Simple-VFX
