@@ -17,7 +17,7 @@
 <details>
   <summary>:computer: Unity Work</summary>
 
-  -☄️Tower Defense Protoype implemented wth Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
+  -☄️Tower Defense Protoype implemented wth Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]<br/>
   -:milky_way: Simple VFX Effects: [Simple VFX][VFX]!
   
 </details>
