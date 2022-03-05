@@ -2,6 +2,8 @@
 
 ## I'm an indie Game Developer who curious about several topics from Physics to Visual Effects!
 
+### Latest Works
+
 - 🔭 Check out my Simple VFX Effects: [Simple VFX][VFX]!
 - 🌱 I’m currently learning OpenGL and Solidity
 
@@ -16,6 +18,7 @@
   <summary>:computer: Unity Work</summary>
 
   -☄️Tower Defense Protoype implemented wth Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
+  -:milky_way: Simple VFX Effects: [Simple VFX][VFX]!
   
 </details>
 
