@@ -15,10 +15,8 @@
 &nbsp;&nbsp;
 
 ### General:
-  <summary>:computer: Unity Work</summary>
-  <br/>
+  #### :computer:Unity Work<br/>
   -☄️Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
-  <br/>
   <br/>
   -:milky_way: Simple VFX Effects: [Simple VFX][VFX]
 
