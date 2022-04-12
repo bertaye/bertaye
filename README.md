@@ -1,11 +1,11 @@
 # Hi there, I'm Bertay 👋 
 
-## I'm an indie Game Developer who curious about several topics from Physics to Visual Effects
+## I'm an indie Game Developer who curious about several topics from Physics to Computer Graphics
 
 ### Latest Works
 
 - 🔭 Check out my Simple VFX Effects: [Simple VFX][VFX]
-- 🌱 I’m currently learning OpenGL and Solidity
+- 🌱 I’m currently learning Computer Graphics and Digital Geometry Processing
 
 ### Connect with me:
 
