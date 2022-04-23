@@ -3,9 +3,9 @@
 ## I'm an indie Game Developer who curious about several topics from Physics to Computer Graphics
 
 ### Latest Works
-
-- 🔭 Check out my Simple VFX Effects: [Simple VFX][VFX]
-- 🌱 I’m currently learning Computer Graphics and Digital Geometry Processing
+- Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
+- Check out my Simple VFX Effects: [Simple VFX][VFX]
+- I’m currently learning Computer Graphics and Digital Geometry Processing
 
 ### Connect with me:
 
@@ -15,6 +15,9 @@
 &nbsp;&nbsp;
 
 ### General:
+  #### :computer:Digital Geometry Processing<br/>
+  - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
+
   #### :computer:Unity Work<br/>
   -☄️Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
   <br/>
@@ -32,3 +35,4 @@
 [linkedin]: https://linkedin.com/in/bertayeren
 [VFX]: https://github.com/bertaye/Simple-VFX
 [TowerDefense]: https://github.com/bertaye/Tower-Defense-Prototype
+[Geodesic]: https://github.com/bertaye/GeodesicWithDijkstra
