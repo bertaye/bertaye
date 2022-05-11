@@ -3,7 +3,7 @@
 ## I'm an indie Game Developer who curious about several topics from Physics to Computer Graphics
 
 ### Latest Works
-- Catmull Clark and Sqrt3 Subdivision : [CatmullClark Sqrt3 Subdivision][Subdivisions]
+- Catmull Clark and Sqrt3 Subdivision : [Mesh Smoothing][Subdivisions]
 - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 - Check out my Simple VFX Effects: [Simple VFX][VFX]
 - I’m currently learning Computer Graphics and Digital Geometry Processing
@@ -37,4 +37,4 @@
 [VFX]: https://github.com/bertaye/Simple-VFX
 [TowerDefense]: https://github.com/bertaye/Tower-Defense-Prototype
 [Geodesic]: https://github.com/bertaye/GeodesicWithDijkstra
-[Subdivisions]: https://github.com/bertaye/CatmullClark-Sqrt3-Subdivision
+[Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
