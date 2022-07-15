@@ -17,6 +17,7 @@
 
 ### General:
   #### :computer:Digital Geometry Processing<br/>
+  - Octree for Point Clouds: [OctreeForPointClouds][Octree]
   - Catmull Clark and Sqrt3 Subdivision : [CatmullClark Sqrt3 Subdivision][Subdivisions]
   - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 
@@ -38,3 +39,4 @@
 [TowerDefense]: https://github.com/bertaye/Tower-Defense-Prototype
 [Geodesic]: https://github.com/bertaye/GeodesicWithDijkstra
 [Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
+[Octree]: https://github.com/bertaye/OctreeForPointClouds
