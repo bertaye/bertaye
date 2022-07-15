@@ -3,6 +3,7 @@
 ## I'm an indie Game Developer who curious about several topics from Physics to Computer Graphics
 
 ### Latest Works
+- Octree for Point Clouds: [OctreeForPointClouds][Octree]
 - Catmull Clark and Sqrt3 Subdivision : [Mesh Smoothing][Subdivisions]
 - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 - Check out my Simple VFX Effects: [Simple VFX][VFX]
