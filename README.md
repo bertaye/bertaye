@@ -25,9 +25,10 @@
 
   #### :computer:Unity Work<br/>
   - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
-  -☄️Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
-  <br/>
-  -:milky_way: Simple VFX Effects: [Simple VFX][VFX]
+  
+  - Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
+  
+  - Simple VFX Effects: [Simple VFX][VFX]
 
   
 <details>
