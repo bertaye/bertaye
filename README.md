@@ -1,7 +1,3 @@
-# Hi there, I'm Bertay 👋 
-
-## I'm an indie Game Developer who curious about several topics from Physics to Computer Graphics
-
 ### Latest Works
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
 - Octree for Point Clouds: [OctreeForPointClouds][Octree]
