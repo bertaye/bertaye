@@ -1,4 +1,5 @@
 ### Latest Works
+- Nonlinear Diffusion for Edge Preserving Image Smoothing: [Nonlinear Diffusion][EdgePreservingSmoothing]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
 - Octree for Point Clouds: [OctreeForPointClouds][Octree]
 - Catmull Clark and Sqrt3 Subdivision : [Mesh Smoothing][Subdivisions]
@@ -41,3 +42,4 @@
 [Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
 [Octree]: https://github.com/bertaye/OctreeForPointClouds
 [PlyImporter]: https://github.com/bertaye/UnityPlyImporter
+[EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
