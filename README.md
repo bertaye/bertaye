@@ -1,4 +1,5 @@
 ### Latest Works
+- Spectral Based Mesh Segmentation: [SpectralBasedMeshSegmentation][SpectralMeshSegmentation]
 - Nonlinear Diffusion for Edge Preserving Image Smoothing: [Nonlinear Diffusion][EdgePreservingSmoothing]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
 - Octree for Point Clouds: [OctreeForPointClouds][Octree]
@@ -43,3 +44,4 @@
 [Octree]: https://github.com/bertaye/OctreeForPointClouds
 [PlyImporter]: https://github.com/bertaye/UnityPlyImporter
 [EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
+[SpectralMeshSegmentation]: https://github.com/bertaye/Spectral-Based-Mesh-Segmentation
