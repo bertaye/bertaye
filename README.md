@@ -1,4 +1,5 @@
 ### Latest Works
+- Shader Collections: [ShaderCollection][ShaderCollection]
 - Spectral Based Mesh Segmentation: [SpectralBasedMeshSegmentation][SpectralMeshSegmentation]
 - Nonlinear Diffusion for Edge Preserving Image Smoothing: [Nonlinear Diffusion][EdgePreservingSmoothing]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
@@ -45,3 +46,4 @@
 [PlyImporter]: https://github.com/bertaye/UnityPlyImporter
 [EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
 [SpectralMeshSegmentation]: https://github.com/bertaye/Spectral-Based-Mesh-Segmentation
+[ShaderCollection]: https://github.com/bertaye/ShaderCollection
