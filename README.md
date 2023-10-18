@@ -1,9 +1,9 @@
 ### Latest Works
-- Shader Collections: [ShaderCollection][ShaderCollection]
+- A lightweight Octree Project: [Octree][_Octree]
 - Spectral Based Mesh Segmentation: [SpectralBasedMeshSegmentation][SpectralMeshSegmentation]
 - Nonlinear Diffusion for Edge Preserving Image Smoothing: [Nonlinear Diffusion][EdgePreservingSmoothing]
+- Shader Collections: [ShaderCollection][ShaderCollection]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
-- Octree for Point Clouds: [OctreeForPointClouds][Octree]
 - Catmull Clark and Sqrt3 Subdivision : [Mesh Smoothing][Subdivisions]
 - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 - Check out my Simple VFX Effects: [Simple VFX][VFX]
@@ -18,7 +18,7 @@
 
 ### General:
   #### :computer:Digital Geometry Processing<br/>
-  - Octree for Point Clouds: [OctreeForPointClouds][Octree]
+  - A lightweight Octree Project: [Octree][_Octree]
   - Catmull Clark and Sqrt3 Subdivision : [CatmullClark Sqrt3 Subdivision][Subdivisions]
   - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 
@@ -42,7 +42,7 @@
 [TowerDefense]: https://github.com/bertaye/Tower-Defense-Prototype
 [Geodesic]: https://github.com/bertaye/GeodesicWithDijkstra
 [Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
-[Octree]: https://github.com/bertaye/OctreeForPointClouds
+[_Octree]: https://github.com/bertaye/Octree
 [PlyImporter]: https://github.com/bertaye/UnityPlyImporter
 [EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
 [SpectralMeshSegmentation]: https://github.com/bertaye/Spectral-Based-Mesh-Segmentation
