@@ -1,8 +1,9 @@
 ### Latest Works
+- Unity Bluetooth Plugin: [_UnityBluetooth][UnityBluetooth] (Contributed to Windows side) 
+- A Bluetooth API for C++ projects: [Bluetooth][_Bluetooth]
 - A lightweight Octree Project: [Octree][_Octree]
 - Spectral Based Mesh Segmentation: [SpectralBasedMeshSegmentation][SpectralMeshSegmentation]
 - Catmull Clark and Sqrt3 Subdivision : [Mesh Smoothing][Subdivisions]
-- A Bluetooth API for C++ projects: [Bluetooth][_Bluetooth]
 - Nonlinear Diffusion for Edge Preserving Image Smoothing: [Nonlinear Diffusion][EdgePreservingSmoothing]
 - Shader Collections: [ShaderCollection][ShaderCollection]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
@@ -23,6 +24,8 @@
   - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
 
   #### :computer:Unity Work<br/>
+  - Unity Bluetooth Plugin: [_UnityBluetooth][UnityBluetooth] (Contributed to Windows side) 
+    
   - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
   
   - Tower Defense Protoype implemented with Object Pooling and Flyweight Patterns: [Tower Defense][TowerDefense]
@@ -44,7 +47,9 @@
 [Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
 [_Bluetooth]: https://github.com/bertaye/WindowsBluetoothConnection
 [_Octree]: https://github.com/bertaye/Octree
+[_UnityBluetooth]: https://github.com/bertaye/BlueUnityWithWindows
 [PlyImporter]: https://github.com/bertaye/UnityPlyImporter
 [EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
 [SpectralMeshSegmentation]: https://github.com/bertaye/Spectral-Based-Mesh-Segmentation
 [ShaderCollection]: https://github.com/bertaye/ShaderCollection
+
