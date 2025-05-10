@@ -1,4 +1,5 @@
 ### Latest Works
+- Basic SIMD Header-only: [BasicSIMD][_BasicSIMD]
 - Unity Bluetooth Plugin: [UnityBluetooth][_UnityBluetooth] (Contributed to Windows side) 
 - A Bluetooth API for C++ projects: [Bluetooth][_Bluetooth]
 - A lightweight Octree Project: [Octree][_Octree]
@@ -52,4 +53,5 @@
 [EdgePreservingSmoothing]: https://github.com/bertaye/Edge-Preserving-Nonlinear-Diffusion
 [SpectralMeshSegmentation]: https://github.com/bertaye/Spectral-Based-Mesh-Segmentation
 [ShaderCollection]: https://github.com/bertaye/ShaderCollection
+[_BasicSIMD]:https://github.com/bertaye/BasicSIMD
 
