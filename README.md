@@ -1,5 +1,5 @@
 ### Latest Works
-- Basic SIMD Header-only: [BasicSIMD][_BasicSIMD]
+- C++ SIMD Header-only Wrapper: [BasicSIMD][_BasicSIMD]
 - Unity Bluetooth Plugin: [UnityBluetooth][_UnityBluetooth] (Contributed to Windows side) 
 - A Bluetooth API for C++ projects: [Bluetooth][_Bluetooth]
 - A lightweight Octree Project: [Octree][_Octree]
