@@ -1,5 +1,6 @@
 ### Latest Works
-- Simple Vulkan OBJ Renderer: [SimpleVulkanRenderer][SimpleVulkanRenderer] (A straightforward impl from learn-vulkan.com)
+- C++ Llama2 runner from scratch; including chapters for anyone to grasp basics, on CPU: [BasicLLM][BasicLLM]
+- Simple Vulkan Renderer: [SimpleVulkanRenderer][SimpleVulkanRenderer] (A straightforward impl from learn-vulkan.com)
 - C++ SIMD Header-only Wrapper: [BasicSIMD][_BasicSIMD]
 - Unity Bluetooth Plugin: [UnityBluetooth][_UnityBluetooth] (Contributed to Windows side) 
 - A Bluetooth API for C++ projects: [Bluetooth][_Bluetooth]
@@ -10,7 +11,7 @@
 - Shader Collections: [ShaderCollection][ShaderCollection]
 - Unity Ply Importer: [UnityPlyImporter][PlyImporter]
 - Geodesic Distance : [GeodesicWithDijkstra][Geodesic]
-- Check out my Simple VFX Effects: [Simple VFX][VFX]
+- Simple VFX Effects: [Simple VFX][VFX]
 
 ### Connect with me:
 
@@ -44,7 +45,6 @@
 
 [linkedin]: https://linkedin.com/in/bertayeren
 [VFX]: https://github.com/bertaye/Simple-VFX
-[TowerDefense]: https://github.com/bertaye/Tower-Defense-Prototype
 [Geodesic]: https://github.com/bertaye/GeodesicWithDijkstra
 [Subdivisions]: https://github.com/bertaye/Mesh-Smoothing
 [_Bluetooth]: https://github.com/bertaye/WindowsBluetoothConnection
@@ -56,3 +56,4 @@
 [ShaderCollection]: https://github.com/bertaye/ShaderCollection
 [_BasicSIMD]:https://github.com/bertaye/BasicSIMD
 [SimpleVulkanRenderer]:https://github.com/bertaye/SimpleVulkanRenderer
+[BasicLLM]:https://github.com/bertaye/BasicLLM
