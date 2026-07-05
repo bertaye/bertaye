@@ -1,5 +1,5 @@
 ### Latest Works
-- C++ Llama2 runner from scratch; including chapters for anyone to grasp basics, on CPU: [BasicLLM][BasicLLM]
+- C++ Llama2 runner from scratch: [BasicLLM][BasicLLM]
 - Simple Vulkan Renderer: [SimpleVulkanRenderer][SimpleVulkanRenderer] (A straightforward impl from learn-vulkan.com)
 - C++ SIMD Header-only Wrapper: [BasicSIMD][_BasicSIMD]
 - Unity Bluetooth Plugin: [UnityBluetooth][_UnityBluetooth] (Contributed to Windows side) 
