@@ -1,6 +1,6 @@
 ### Latest Works
-- C++ Llama2 runner from scratch: [wifi-llm][WifiLLM]
-- Wifi-LLM: Run 16 MB model on 300 KB RAM ESP32: [BasicLLM][BasicLLM]
+- Wifi-LLM: Run 16 MB model on 300 KB RAM ESP32: [wifi-llm][wifi-llm]
+- C++ Llama2 runner from scratch: [BasicLLM][BasicLLM]
 - Simple Vulkan Renderer: [SimpleVulkanRenderer][SimpleVulkanRenderer] (A straightforward impl from learn-vulkan.com)
 - C++ SIMD Header-only Wrapper: [BasicSIMD][_BasicSIMD]
 - Unity Bluetooth Plugin: [UnityBluetooth][_UnityBluetooth] (Contributed to Windows side) 
